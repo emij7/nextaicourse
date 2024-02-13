@@ -1,11 +1,11 @@
 import React from "react";
 
-const Client = () => {
+const ClientPage = () => {
   return (
     <div>
-      <h1 className="text-7xl">Client</h1>
+      <h1 className="text-7xl">ClientPage</h1>
     </div>
   );
 };
 
-export default Client;
+export default ClientPage;
